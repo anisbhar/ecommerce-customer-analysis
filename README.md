@@ -51,6 +51,7 @@ to identify patterns within the customer dataset.
 
 ## Project Structure
 
+```text
 ecommerce-customer-analysis/
 │
 ├── data/
@@ -62,3 +63,4 @@ ecommerce-customer-analysis/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
